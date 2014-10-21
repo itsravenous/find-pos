@@ -1,7 +1,6 @@
 {
   "name": "find-pos",
   "main": "find-pos.js",
-  "version": "1.0.0",
   "homepage": "https://github.com/itsravenous/find-pos",
   "authors": [
     "Tom Jenkins <tom@itsravenous.com>"
