@@ -1,0 +1,24 @@
+{
+  "name": "find-pos",
+  "main": "find-pos.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/itsravenous/find-pos",
+  "authors": [
+    "Tom Jenkins <tom@itsravenous.com>"
+  ],
+  "description": "JS function to find the true position of an element (code from PPK)",
+  "keywords": [
+    "JavaScript",
+    "elements",
+    "position",
+    "offset"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
